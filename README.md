@@ -7,16 +7,12 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
 
 A hands-on experience in React Native development, from understanding the basics to building a feature-rich app with a focus on UI/UX, external data integration, and best practices.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -48,7 +44,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Optimized for All Devices**: A responsive design for a seamless user experience across various devices.
 
-and many more, including code architecture and reusability 
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -65,7 +60,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_react_native_jobs.git
+git clone https://github.com/RadinaAvramova/project_react_native_jobs.git
 cd project_react_native_jobs
 ```
 
@@ -243,5 +238,3 @@ export default JobSearch
 ## <a name="links">🔗 Links</a>
 
 Models and Assets used in the project can be found [here](https://drive.google.com/file/d/1VGr3R-3uta9xNj17eRHMxTELhtE2LaCm/view)
-
-## <a name="more">🚀 More</a>
